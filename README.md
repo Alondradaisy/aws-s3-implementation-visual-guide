@@ -109,3 +109,5 @@ _Seattle Public Library - This is an object I stored in a bucket to demonstrate.
 
 ## ET VOILA!
 
+[Visual guide featured on AWS in Plain English] (https://medium.com/aws-in-plain-english/storing-retrieving-implementing-objects-using-aws-s3-e2b206e98623) 
+
