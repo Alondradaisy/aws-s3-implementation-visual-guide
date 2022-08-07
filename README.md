@@ -17,7 +17,7 @@ _If you do not yet have an account,click the link below to create one._
 
 Once you have successfully created an account, the first location will be the AWS Managment Console where you'll see the range of services offered. 
 
-![AWS Console](../../../Desktop/aws%20S3%20process/AWS-console.png)
+![AWS Console](https://s3-visual-guide.s3.us-west-1.amazonaws.com/AWS-console.png)
 
 ## Navigate to S3 under AWS Services 
 
